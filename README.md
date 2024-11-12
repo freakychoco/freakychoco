@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Nest js, Nextjs, Nuxt.js**
 
-- 💞 I’m looking to collaborate on **on Open Source Project**
+- 💞 I’m looking to collaborate on **Open Source Project**
 
 - 📫 How to reach me **andredpradyana@gmail.com**
 
